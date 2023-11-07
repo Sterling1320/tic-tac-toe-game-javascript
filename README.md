@@ -12,3 +12,6 @@ But dont be complacent, try to add more functionalities to this like-
 2. score tracker
 3. maybe try to add custom symbols
 4. animations
+5. Sound and transitions
+6. more game modes like 4x4 and 5x5
+7. customizable themes
