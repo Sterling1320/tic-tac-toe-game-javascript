@@ -9,7 +9,6 @@ A classic web-based Tic Tac Toe game that offers a fun and interactive gaming ex
 functions use kara, logic ye tha ki basically pehle se winning possibilities ko array mai define kardiya and uske baad, some and every method use karke matching kari. Even though this project souned simple at first, the implementation was not. It was nice learning about the functions and how to nest them to bring it all together, i'll say im rather happy with the outcome.
 But dont be complacent, try to add more functionalities to this like-
 1. Vs computer
-2. score tracker
 3. maybe try to add custom symbols
 4. animations
 5. Sound and transitions
